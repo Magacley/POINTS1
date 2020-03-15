@@ -1,0 +1,53 @@
+from marshmallow_sqlalchemy import SQLAlchemySchema, auto_field, SQLAlchemyAutoSchema
+import sqlalchemy
+
+from DirFile.DBGlaobal.base import SqlAlchemyBase
+from DirFile.DBGlaobal.context import DbSessionFactory
+from DirFile.DBGlaobal.directives import SqlalchemySession
+from DirFile.Model.models import Point, Player
+from sqlalchemy.orm import scoped_session, sessionmaker,relationship,backref
+from marshmallow_jsonapi import Schema as JSONAPISchema
+
+# class PointSchema(SQLAlchemySchema):
+#     class Meta:
+#         model = Point
+#     load_instance = True
+#     poitId = auto_field()
+#     score = auto_field()
+#     gameName = auto_field()
+#     created = auto_field()
+#     isPlayed = auto_field()
+#
+#
+# class PlayerSchema(SQLAlchemySchema):
+#     class Meta:
+#         model = Player
+#         load_instance = True
+#     id = auto_field()
+#     username = auto_field()
+#     password = auto_field()
+
+
+class PointSchemaTwo(SQLAlchemyAutoSchema):
+    class Meta:
+        model = Point
+        include_relationships = True
+        load_instance = True
+
+
+class PlayertSchemaTwo(SQLAlchemyAutoSchema):
+    class Meta:
+        model = Player
+        include_relationships = True
+        load_instance = True
+
+
+player = Player(username="Said H F")
+player_schema = PlayertSchemaTwo()
+point = Point(gameName="JustPlay")
+
+# session.add(point)
+#.bSessionFactory.create_session()
+
+dump_data = player_schema.dump(player)
+print(dump_data)

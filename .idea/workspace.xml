@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d246b9b1-d5ab-4740-bf9c-ca24e166a595" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RealPoints" />
+  </component>
+  <component name="ProjectId" id="1Yb0F0iTHxnPZUN7vdr7sq1QUZT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DirFile/admin" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ducaq\Desktop\EVERY DAY PROJECT\11-03-2020\RealPoints\DirFile\admin" />
+      <recent name="C:\Users\ducaq\Desktop\RealPoints\DirFile" />
+      <recent name="C:\Users\ducaq\Desktop\RealPoints\DirFile\DBGlaobal\get\document" />
+      <recent name="C:\Users\ducaq\Desktop\RealPoints\DirFile\Appfolder" />
+      <recent name="C:\Users\ducaq\OneDrive\Skrivebord\ALL TRAINS\RealPoints\DirFile\PTob" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ducaq\Desktop\EVERY DAY PROJECT\11-03-2020\RealPoints" />
+      <recent name="C:\Users\ducaq\Desktop\EVERY DAY PROJECT\11-03-2020\RealPoints\DirFile" />
+      <recent name="C:\Users\ducaq\Desktop\RealPoints\DirFile\DBGlaobal" />
+      <recent name="C:\Users\ducaq\Desktop\RealPoints\DirFile" />
+      <recent name="C:\Users\ducaq\Desktop\RealPoints\DirFile\Appfolder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.RealPoints">
+    <configuration name="RealPoints" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="RealPoints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ducaq\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RealPoints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ducaq\Desktop\EVERY DAY PROJECT\11-03-2020\RealPoints\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealPoints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ducaq\Desktop\EVERY DAY PROJECT\11-03-2020\RealPoints\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="htmlServer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealPoints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DirFile/Appfolder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ducaq\Desktop\RealPoints\DirFile\htmlServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="htmlServer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealPoints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DirFile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ducaq\Desktop\EVERY DAY PROJECT\11-03-2020\RealPoints\htmlServer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mashallin.pyetyty" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealPoints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DirFile/SerialMash" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Desktop\RealPoints\DirFile\SerialMash\mashallin.pyetyty" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="validation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RealPoints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Admin\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Desktop\RealPoints\validation.pyrr" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.RealPoints" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.validation" />
+      <item itemvalue="Python.mashallin.pyetyty" />
+      <item itemvalue="Python.htmlServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.htmlServer" />
+        <item itemvalue="Python.mashallin.pyetyty" />
+        <item itemvalue="Python.validation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",DDL statements,Group by type" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d246b9b1-d5ab-4740-bf9c-ca24e166a595" name="Default Changelist" comment="" />
+      <created>1582831467684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582831467684</updated>
+      <workItem from="1582831468854" duration="5844000" />
+      <workItem from="1582920138657" duration="2201000" />
+      <workItem from="1582970472338" duration="15827000" />
+      <workItem from="1583018224443" duration="1016000" />
+      <workItem from="1583087684390" duration="5734000" />
+      <workItem from="1583093443621" duration="1469000" />
+      <workItem from="1583098080902" duration="32000" />
+      <workItem from="1583098121811" duration="2521000" />
+      <workItem from="1583100660245" duration="261000" />
+      <workItem from="1583100949568" duration="9805000" />
+      <workItem from="1583111223359" duration="1882000" />
+      <workItem from="1583113128955" duration="228000" />
+      <workItem from="1583113371572" duration="238000" />
+      <workItem from="1583113623047" duration="846000" />
+      <workItem from="1583146923740" duration="1110000" />
+      <workItem from="1583148104170" duration="2497000" />
+      <workItem from="1583150752126" duration="6561000" />
+      <workItem from="1583166283193" duration="1971000" />
+      <workItem from="1583169795842" duration="974000" />
+      <workItem from="1583170816100" duration="244000" />
+      <workItem from="1583171086071" duration="4284000" />
+      <workItem from="1583177329770" duration="3825000" />
+      <workItem from="1583184155764" duration="5025000" />
+      <workItem from="1583190043512" duration="473000" />
+      <workItem from="1583195889031" duration="572000" />
+      <workItem from="1583196495620" duration="580000" />
+      <workItem from="1583221645895" duration="84000" />
+      <workItem from="1583221864181" duration="660000" />
+      <workItem from="1583223082568" duration="3307000" />
+      <workItem from="1583226612983" duration="12301000" />
+      <workItem from="1583239681167" duration="8352000" />
+      <workItem from="1583266199096" duration="2306000" />
+      <workItem from="1583271121130" duration="693000" />
+      <workItem from="1583271927242" duration="645000" />
+      <workItem from="1583273084603" duration="1194000" />
+      <workItem from="1583307610341" duration="537000" />
+      <workItem from="1583308365203" duration="9064000" />
+      <workItem from="1583319568610" duration="6820000" />
+      <workItem from="1583459391489" duration="627000" />
+      <workItem from="1583480721988" duration="4968000" />
+      <workItem from="1583486076712" duration="272000" />
+      <workItem from="1583486371228" duration="430000" />
+      <workItem from="1583486819236" duration="162000" />
+      <workItem from="1583487004651" duration="366000" />
+      <workItem from="1583487394804" duration="1706000" />
+      <workItem from="1583489187920" duration="11480000" />
+      <workItem from="1583766480398" duration="6288000" />
+      <workItem from="1583775168870" duration="2038000" />
+      <workItem from="1583778048890" duration="958000" />
+      <workItem from="1583780633334" duration="155000" />
+      <workItem from="1583780827342" duration="472000" />
+      <workItem from="1583781333904" duration="128000" />
+      <workItem from="1583781473962" duration="175000" />
+      <workItem from="1583781671868" duration="709000" />
+      <workItem from="1583782436932" duration="522000" />
+      <workItem from="1583783022237" duration="1148000" />
+      <workItem from="1583784193558" duration="156000" />
+      <workItem from="1583784370487" duration="1909000" />
+      <workItem from="1583786310741" duration="398000" />
+      <workItem from="1583786746762" duration="130000" />
+      <workItem from="1583786890123" duration="248000" />
+      <workItem from="1583787161140" duration="264000" />
+      <workItem from="1583787443131" duration="835000" />
+      <workItem from="1583788309146" duration="355000" />
+      <workItem from="1583788707679" duration="315000" />
+      <workItem from="1583789047425" duration="413000" />
+      <workItem from="1583789491709" duration="311000" />
+      <workItem from="1583789814041" duration="250000" />
+      <workItem from="1583790096066" duration="2930000" />
+      <workItem from="1583826108495" duration="26000" />
+      <workItem from="1583826174018" duration="474000" />
+      <workItem from="1583826686209" duration="1154000" />
+      <workItem from="1583827878189" duration="3343000" />
+      <workItem from="1583831278809" duration="1315000" />
+      <workItem from="1583832628427" duration="17176000" />
+      <workItem from="1583913088639" duration="4390000" />
+      <workItem from="1583929915145" duration="8167000" />
+      <workItem from="1584047578513" duration="622000" />
+      <workItem from="1584086419764" duration="15420000" />
+      <workItem from="1584302978389" duration="9045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="63" key="#Notifications" timestamp="1584312031669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="376" y="63" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1584312031669" />
+    <state x="154" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583827007970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583196547075" />
+    <state x="154" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583827007970" />
+    <state x="193" y="29" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583223375799" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584310147564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584310147564" />
+    <state x="350" y="266" key="FileChooserDialogImpl" timestamp="1583827267522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="350" y="266" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583827267522" />
+    <state x="437" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583326800280" />
+    <state x="521" y="340" width="354" height="166" key="Github.CreateGistDialog" timestamp="1584311992557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="340" width="354" height="166" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1584311992557" />
+    <state width="438" height="92" key="GridCell.Tab.0.bottom" timestamp="1584086440302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="438" height="92" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584086440302" />
+    <state width="1432" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583489109796" />
+    <state width="438" height="92" key="GridCell.Tab.0.center" timestamp="1584086440302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="438" height="92" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584086440302" />
+    <state width="1432" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583489109795" />
+    <state width="438" height="92" key="GridCell.Tab.0.left" timestamp="1584086440302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="438" height="92" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584086440302" />
+    <state width="1432" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583489109795" />
+    <state width="438" height="92" key="GridCell.Tab.0.right" timestamp="1584086440302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="438" height="92" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584086440302" />
+    <state width="1432" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583489109796" />
+    <state width="189" height="363" key="HiddenNamespacesPopup" timestamp="1583826942706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="363" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1583826942706" />
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1583223437763" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1583196528129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583196528129" />
+    <state x="413" y="157" width="540" height="524" key="StructurePopup" timestamp="1583935632118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="413" y="157" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1583935632118" />
+    <state x="426" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1584086422659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583273090474" />
+    <state x="426" y="214" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584086422659" />
+    <state x="533" y="270" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583480731200" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RealPoints$app.coverage" NAME="app Coverage Results" MODIFIED="1583018353668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealPoints$mashallin.coverage" NAME="mashallin Coverage Results" MODIFIED="1583318840911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DirFile/SerialMash" />
+    <SUITE FILE_PATH="coverage/RealPoints$pointService.coverage" NAME="pointService Coverage Results" MODIFIED="1583481957092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DirFile/Appfolder" />
+    <SUITE FILE_PATH="coverage/RealPoints$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1583487531582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealPoints$htmlServer__1_.coverage" NAME="htmlServer (1) Coverage Results" MODIFIED="1583846316293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DirFile" />
+    <SUITE FILE_PATH="coverage/RealPoints$context.coverage" NAME="context Coverage Results" MODIFIED="1582837445816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealPoints$api.coverage" NAME="api Coverage Results" MODIFIED="1582998805819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealPoints$htmlServer.coverage" NAME="htmlServer Coverage Results" MODIFIED="1583846139141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DirFile/Appfolder" />
+    <SUITE FILE_PATH="coverage/RealPoints$hug__f_app_py_.coverage" NAME="hug -f app Coverage Results" MODIFIED="1583112044821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealPoints$validation.coverage" NAME="validation Coverage Results" MODIFIED="1583184971264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealPoints$config.coverage" NAME="config Coverage Results" MODIFIED="1583092576094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DirFile/PTob" />
+  </component>
+</project>
